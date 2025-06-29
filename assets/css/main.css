@@ -315,7 +315,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(0, 0, 144, 0.1);
+		background: rgba(144, 0, 144, 0.1);
 		border-radius: 0.325rem;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
